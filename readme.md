@@ -1,4 +1,4 @@
-🚢 Titanic Survival Prediction
+# 🚢 Titanic Survival Prediction #
 
 A Machine Learning web application that predicts whether a passenger would have survived the Titanic disaster based on passenger details such as age, gender, passenger class, fare, and family information.
 
