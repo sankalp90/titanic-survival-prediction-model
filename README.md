@@ -6,8 +6,7 @@ Built using Python, Scikit-learn, Pandas, and Streamlit, this project demonstrat
 
 🌐 Live Demo
 
-Live Application: Add your deployed Render or Streamlit Community Cloud URL here.
-
+Live Application: https://titanic-survival-prediction-randomforest.streamlit.app/
 📌 Project Overview
 
 The Titanic Survival Prediction project uses historical passenger data from the Titanic disaster to build a machine learning model capable of predicting passenger survival.
@@ -106,18 +105,6 @@ Embarkation Port (Embarked)
 
 The exact input features depend on the model implemented in the project.
 
-🚀 Deployment
-
-This application can be deployed using:
-
-Render: https://render.com/
-Streamlit Community Cloud: https://share.streamlit.io/
-Render Configuration
-Setting	Value
-Environment	Python 3
-Build Command	pip install -r requirements.txt
-Start Command	streamlit run app.py --server.address 0.0.0.0 --server.port $PORT
-📦 Requirements
 
 The project dependencies are listed in requirements.txt.
 
@@ -138,11 +125,7 @@ Add visualizations and exploratory data analysis.
 Display prediction probabilities.
 Improve the UI with interactive charts.
 Add more model evaluation metrics.
-👨‍💻 Author
 
-Your Name
-
-GitHub: https://github.com/YOUR-USERNAME
 
 📄 License
 
